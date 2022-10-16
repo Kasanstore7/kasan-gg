@@ -10,14 +10,14 @@ global.mods = ['6282221792667']   // isi jika perlu
 global.prems = ['6282221792667']  // isi jika perlu
 
 //Nomor Owner & payment//
-global.nameowner = 'TioXd' // isi nama kalian bebas
+global.nameowner = 'Mursid Ganteng' // isi nama kalian bebas
 global.numberowner = '6282221792667' // isi nomor kalian dengan awalan seperti di contoh 
 global.dana = '6282221792667' // isi dengan nomor dana yg kamu punya 
 global.pulsa = '6282221792667' // isi dengan nomor pulsa hp kalian
 global.gopay = '6282221792667'
 
 //Nama Bot & Grouplink//
-global.namebot = 'RTXZY-MD'
+global.namebot = 'TEST BOT'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'https://github.com/BOTCAHX' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
