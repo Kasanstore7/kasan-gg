@@ -3,29 +3,29 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6288233832771']  // isi jika perlu
-global.mods = ['6288233832771']   // isi jika perlu
-global.prems = ['6288233832771']  // isi jika perlu
+global.owner = ['6285641142278']  // isi jika perlu
+global.mods = ['6285641142278']   // isi jika perlu
+global.prems = ['6285641142278']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = 'Mursid S' // isi nama kalian bebas
-global.numberowner = '6288233832771' // isi nomor kalian dengan awalan seperti di contoh 
-global.dana = '6288233832771' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6289674452300' // isi dengan nomor pulsa hp kalian
-global.gopay = '6288233832771'
+global.nameowner = 'kasan' // isi nama kalian bebas
+global.numberowner = '6285641142278' // isi nomor kalian dengan awalan seperti di contoh 
+global.dana = '62XXXXXX' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6283292405363' // isi dengan nomor pulsa hp kalian
+global.gopay = '6282110711736'
 
 //Name Bot & Grouplink//
-global.namebot = 'мυʀѕι∂ вσт-χмℓ'
-global.gc = 'https://chat.whatsapp.com/FhSBFvhtzfN5hIVe1GXAfj'
-global.web = 'https://instagram.com/mursid.st' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'SaxiaBotzV2'
+global.gc = 'https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz '
+global.web = 'https://instagram.com/storekasan' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'мυʀѕι∂ вσт-χмℓ'
+global.wm = 'SaxiaBotzV2'
 global.watermark = wm
-global.wm2 = 'мυʀѕι∂ вσт-χмℓ'
-global.wm3 = 'мυʀѕι∂ вσт-χмℓ'
+global.wm2 = 'SaxiaBotzV2'
+global.wm3 = 'SaxiaBotzV2'
 global.wm4 = '2022'
 global.htki = '––––––「' 
 global.htka = '」––––––'
@@ -36,7 +36,7 @@ global.benar = 'вєɴαʀ'
 global.salah = 'ѕαℓαн'
 global.stiker_wait = 'Loading...'
 global.packname = 'sᴛɪᴄᴋᴇʀ ʙʏ'
-global.author = 'мυʀѕι∂ вσт-χмℓ'
+global.author = 'KasanStore'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
