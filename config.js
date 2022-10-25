@@ -3,15 +3,15 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6285641142278']  // isi jika perlu
+global.owner = ['6285641142178']  // isi jika perlu
 global.mods = ['6285641142278']   // isi jika perlu
-global.prems = ['6285641142278']  // isi jika perlu
+global.prems = ['6285641142178']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = 'kasan' // isi nama kalian bebas
 global.numberowner = '6285641142278' // isi nomor kalian dengan awalan seperti di contoh 
 global.dana = '62XXXXXX' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6283292405363' // isi dengan nomor pulsa hp kalian
+global.pulsa = '6283192405363' // isi dengan nomor pulsa hp kalian
 global.gopay = '6282110711736'
 
 //Name Bot & Grouplink//
