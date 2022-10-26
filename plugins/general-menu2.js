@@ -7,7 +7,7 @@ let jimp = require('jimp')
 let PhoneNumber = require('awesome-phonenumber')
 const defaultMenu = {
   before: `┌───────────────────⬣
-│           *мυʀѕι∂ вσт-χмℓ*
+│           *SaxiaBotzV2
 └┬────────────────✽  
 ┌┤⬡ *Name* : %name
 ││⬡ *Role* : %role
@@ -455,7 +455,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             }
           ]
     const listMessage = {
-      text: `мυʀѕι∂ вσт-χмℓ adalah bot whatsapp yang di bangun dengan Nodejs, dengan menggunakan server yang sangat kencang, tapi tidak terlalu kencang-kencang banget.`.trim(),
+      text: `SaxiaBotzV2 adalah bot whatsapp yang di bangun dengan Nodejs, dengan menggunakan server yang sangat kencang, tapi tidak terlalu kencang-kencang banget🗿.`.trim(),
       footer: wm,
       title: judul,
       buttonText: "Click Here",
@@ -516,9 +516,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       quoted: ftroli,  
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
-              title: 'мυʀѕι∂ вσт-χмℓ ',  
+              title: 'SaxiaBotzV2 ',  
               body: 'ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙᴀɪʟʏᴇs ᴍᴜʟᴛɪ ᴀᴜᴛʜ', 
-              description: 'мυʀѕι∂ вσт-χмℓ ', 
+              description: 'SaxiaBotzV2 ', 
               mediaType: 2,  
             thumbnail: await (await fetch('https://telegra.ph/file/84fbf55d0df841cf8e5fb.jpg')).buffer(), 
            mediaUrl: `https://instagram.com/mursid.st` 
